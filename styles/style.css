@@ -18,6 +18,8 @@ html {
   background-color: #1b1919;
   display: flex;
   justify-content: center;
+  align-items: center;
+  min-height: 800px;
 }
 
 h1,
@@ -68,7 +70,6 @@ ol {
   gap: 30px;
   grid-template-areas: "result details";
   align-items: start;  
-  margin-top: 133px;
 }
 
 .result {
