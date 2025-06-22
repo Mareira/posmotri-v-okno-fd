@@ -67,9 +67,8 @@ ol {
   grid-template-columns: 711px 399px;
   gap: 30px;
   grid-template-areas: "result details";
-  align-items: start;
-  width: 100%;
-  margin: 133px 30px;
+  align-items: start;  
+  margin-top: 133px;
 }
 
 .result {
